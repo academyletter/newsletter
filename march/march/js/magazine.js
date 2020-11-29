@@ -48,7 +48,7 @@ function loadPage(page, pageElement) {
 
 	// Load the page
 
-	img.attr('src', 'newsletter/' +  page + '.jpg');
+	img.attr('src', 'https://github.com/academyletter/newsletter/blob/main/march/march/newsletter/' +  page + '.jpg');
 
 	loadRegions(page, pageElement);
 
